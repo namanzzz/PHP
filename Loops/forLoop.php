@@ -30,7 +30,7 @@
 
 $counter = $_POST["counter"];
 for($i=1;$i<=$counter;$i++){
-    echo"$i <br>"; 
+    echo $i.  "<br>"; 
 }
 
 ?>
