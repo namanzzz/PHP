@@ -34,8 +34,7 @@
 
     //booleans
     $wasachattu = false;
-    echo "You know why my gpa is less because 
-    I was never a..(chattu) in my life
+    echo "great great
     "
 
 
